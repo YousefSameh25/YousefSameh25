@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning testing foundations **and new and advanced algorithms.**
 
-- 🤝 I’m looking for help with **Internship**
+- 🤝 I’m looking for **Internship in testing or mobile development**
 
 - 📫 How to reach me **yousefsamehmahmoud@gmail.com**
 
