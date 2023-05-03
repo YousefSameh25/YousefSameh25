@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yousefsamehmahmoud@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mEOQBCKLaEkp2mdgLFOh3GzFuUgd79Jl/view?usp=drivesdk](https://drive.google.com/file/d/1mEOQBCKLaEkp2mdgLFOh3GzFuUgd79Jl/view?usp=drivesdk)
+- 📄 Know about my experiences [https://www.linkedin.com/in/yousef-sameh-053174214/](https://www.linkedin.com/in/yousef-sameh-053174214/)
 
 - ⚡ Fun fact **I think i am the best problem solver ever!**
 
