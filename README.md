@@ -2,18 +2,19 @@
 ![210012254-234538ff-d198-48aa-8964-37e6fd45d227](https://user-images.githubusercontent.com/84719726/212559644-e7dd021d-60f9-4b71-a5ff-78b13f25ea8c.gif)
 
 
-<h1 align="center">Hi 👋, I'm Yousef Sameh</h1>
-<h3 align="center">A senior student in faculty of computer and information systems.</h3>
+<h1 align="center">
+Hi 👋, I'm Yousef Sameh</h1>
+<h3 align="center">A fresh graduate in the faculty of computer and information systems.</h3>
 
-- 🌱 I’m currently learning testing foundations **and new and advanced algorithms.**
+- 🌱 I’m currently learning **backend development using .NET**
 
-- 🤝 I’m looking for **Internship in testing or mobile development**
+- 🤝 I’m looking for **Internship or job opportunity as a .Net developer**
 
 - 📫 How to reach me **yousefsamehmahmoud@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/yousef-sameh-053174214/](https://www.linkedin.com/in/yousef-sameh-053174214/)
 
-- ⚡ Fun fact **I think i am the best problem solver ever!**
+- ⚡ Fun fact **I think I am the best problem solver ever!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
